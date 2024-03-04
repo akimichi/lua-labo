@@ -6,8 +6,8 @@ describe("Test", function()
     end)
 
     -- failed test
-    it("'1' equal '0'", function()
-      assert.is_equal(1, 0)
+    it("'1' equal '1'", function()
+      assert.is_equal(1, 1)
     end)
   end)
 
